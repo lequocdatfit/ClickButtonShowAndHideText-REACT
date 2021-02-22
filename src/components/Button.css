@@ -1,0 +1,7 @@
+.Button.show #msg {
+    display: block;
+}
+
+.Button #msg{
+    display: none;
+}
